@@ -1,6 +1,7 @@
 import time
 import requests
 import os
+import random
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_ID = "@corn_adult_content"
