@@ -28,5 +28,5 @@ def send_message():
 while True:
     send_message()
     print("Message sent!")
-    delays = [1200, 1800 ]
+    delays = [1800, 3600]
     time.sleep(random.choice(delays))
