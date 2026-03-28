@@ -12,9 +12,8 @@ messages = [
     "Next post is gonna be crazy... coming shortly 🔥",
     "If you like this... you'll LOVE what's there 💋 @sexxy_korean_girls",
     "Uploading something special... don't go anywhere 😏",
-    "You deserve better content than this 😉 👉 @sexxy_korean_girls",
+    "Enjoy your night with this grp 😉 👉 @sexxy_korean_girls",
     "Fresh content is on the way... stay tuned 👀",
-    "New drop in a few minutes... get ready 😈"
 ]
 
 def send_message():
@@ -28,5 +27,5 @@ def send_message():
 while True:
     send_message()
     print("Message sent!")
-    delays = [1800, 3600]
+    delays = [3600, 7200, 5400]
     time.sleep(random.choice(delays))
