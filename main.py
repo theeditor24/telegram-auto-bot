@@ -6,9 +6,14 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_ID = "@corn_adult_content"
 
 messages = [
-    "🔥 New music dropping soon!",
-    "🎧 Stay tuned for fresh vibes!",
-    "💫 Follow for daily lofi energy!",
+    “New video dropping soon… stay ready 👀🔥”,
+    “Some secrets are too good to stay hidden 🔥 @sexxy_korean_girls”,
+    “Next post is gonna be crazy… coming shortly 🔥”,
+    “If you like this… you’ll LOVE what’s there 💋 @sexxy_korean_girls",
+    “Uploading something special… don’t go anywhere 😏”,
+    “You deserve better content than this 😉 👉 @sexxy_korean_girls”,
+    “Fresh content is on the way… stay tuned 👀”,
+    “New drop in a few minutes… get ready 😈”,
 ]
 
 def send_message():
